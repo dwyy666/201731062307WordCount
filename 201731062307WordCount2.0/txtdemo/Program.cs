@@ -29,8 +29,8 @@ namespace txtdemo
     {
         static string FilePath = "";
         static string outputPath = "";
-        static int Size=3;
-        static int Number=10;
+        static int Size=0;
+        static int Number=0;
         private static void Run(Options options)
         {
             if (options.input != null)
@@ -80,6 +80,7 @@ namespace txtdemo
             Console.WriteLine("Wordnumber：{0}", sum);
 
             //输出最高词频单词，默认前10，可以根据命令行更改个数
+            Console.WriteLine("-----------------------输出最高词频单词，命令行配置初始化为前10---------------------------------------------");
             Dictionary<string, int> nary = countWords.countWords(al);
             nary = countWords.sort(nary);
             foreach (KeyValuePair<string, int> entry in nary.Take(Number))
@@ -91,15 +92,20 @@ namespace txtdemo
                 stream.Close();
                 Console.WriteLine("{0}:{1}", word, frequency);
             }
-            Console.WriteLine("------------------------------分割线-------------------------------");
+            
 
             //附加功能，输出指定长度词组，默认为3.
-            foreach (var pair in test)
+            if (Size!=0)
             {
-                Console.WriteLine("{0}:{1}", pair.Key, pair.Value);
+                Console.WriteLine("-----------------------输出指定长度词组，命令行配置初始化为3---------------------------------------------");
+                foreach (var pair in test)
+                {
+                    Console.WriteLine("{0}:{1}", pair.Key, pair.Value);
+                }
             }
+           
 
-            Console.WriteLine("------------------------------分割线-------------------------------");
+            Console.WriteLine("-----------------------小组附加功能：输出指定长度单词，默认为3--------------------------------------");
 
             //额外添加功能，输出指定长度的单词
             Dictionary<string, int> damn = countWords.countWords(bl);

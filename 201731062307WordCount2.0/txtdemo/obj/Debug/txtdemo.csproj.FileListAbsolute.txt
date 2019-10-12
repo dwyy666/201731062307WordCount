@@ -8,3 +8,13 @@ E:\VS2017项目存储地\txtdemo\txtdemo\obj\Debug\txtdemo.pdb
 E:\VS2017项目存储地\txtdemo\txtdemo\bin\Debug\CommandLine.dll
 E:\VS2017项目存储地\txtdemo\txtdemo\bin\Debug\CommandLine.xml
 E:\VS2017项目存储地\txtdemo\txtdemo\obj\Debug\txtdemo.csproj.CopyComplete
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\bin\Debug\txtdemo.exe.config
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\bin\Debug\txtdemo.exe
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\bin\Debug\txtdemo.pdb
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\bin\Debug\CommandLine.dll
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\bin\Debug\CommandLine.xml
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\obj\Debug\txtdemo.csprojAssemblyReference.cache
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\obj\Debug\txtdemo.csproj.CoreCompileInputs.cache
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\obj\Debug\txtdemo.csproj.CopyComplete
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\obj\Debug\txtdemo.exe
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemo\obj\Debug\txtdemo.pdb
