@@ -1,0 +1,12 @@
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\txtdemoTests.dll
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\txtdemoTests.pdb
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\txtdemo.exe
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\txtdemo.pdb
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\txtdemo.exe.config
+E:\VS2017项目存储地\txtdemo\txtdemoTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.csprojAssemblyReference.cache
+E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.csproj.CoreCompileInputs.cache
+E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.csproj.CopyComplete
+E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.dll
+E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.pdb

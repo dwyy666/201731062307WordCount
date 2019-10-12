@@ -1,0 +1,10 @@
+E:\VS2017项目存储地\txtdemo\txtdemo\bin\Release\txtdemo.exe.config
+E:\VS2017项目存储地\txtdemo\txtdemo\bin\Release\txtdemo.exe
+E:\VS2017项目存储地\txtdemo\txtdemo\bin\Release\txtdemo.pdb
+E:\VS2017项目存储地\txtdemo\txtdemo\bin\Release\CommandLine.dll
+E:\VS2017项目存储地\txtdemo\txtdemo\bin\Release\CommandLine.xml
+E:\VS2017项目存储地\txtdemo\txtdemo\obj\Release\txtdemo.csproj.CoreCompileInputs.cache
+E:\VS2017项目存储地\txtdemo\txtdemo\obj\Release\txtdemo.csproj.CopyComplete
+E:\VS2017项目存储地\txtdemo\txtdemo\obj\Release\txtdemo.exe
+E:\VS2017项目存储地\txtdemo\txtdemo\obj\Release\txtdemo.pdb
+E:\VS2017项目存储地\txtdemo\txtdemo\obj\Release\txtdemo.csprojAssemblyReference.cache
