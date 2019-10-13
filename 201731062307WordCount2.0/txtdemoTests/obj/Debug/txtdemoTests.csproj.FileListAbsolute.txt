@@ -10,3 +10,17 @@ E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.csproj.Core
 E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.csproj.CopyComplete
 E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.dll
 E:\VS2017项目存储地\txtdemo\txtdemoTests\obj\Debug\txtdemoTests.pdb
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\txtdemoTests.dll
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\txtdemoTests.pdb
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\txtdemo.exe
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\CommandLine.dll
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\txtdemo.pdb
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\txtdemo.exe.config
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\CommandLine.xml
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\obj\Debug\txtdemoTests.csprojAssemblyReference.cache
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\obj\Debug\txtdemoTests.csproj.CoreCompileInputs.cache
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\obj\Debug\txtdemoTests.csproj.CopyComplete
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\obj\Debug\txtdemoTests.dll
+E:\C#Study\201731062307WordCount\201731062307WordCount2.0\txtdemoTests\obj\Debug\txtdemoTests.pdb

@@ -101,7 +101,7 @@ static ArrayList countWords(string text)
          */
         static Dictionary<string, int> sort(Dictionary<string, int>nary)
         {
-            nary = nary.OrderByDescending(p => p.Key).ToDictionary(p => p.Key, o => o.Value);
+            nary = nary.OrderByDescending(p => p.Value).ToDictionary(p => p.Key, o => o.Value);
             return nary;
         }
 

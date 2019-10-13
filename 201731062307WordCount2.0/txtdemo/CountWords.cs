@@ -37,6 +37,10 @@ namespace txtdemo
             return al;
         }
 
+
+        /*
+         * 统计单词总数 
+         */
         public int Sumword(ArrayList al)
         {
             int sum = 0;
@@ -68,7 +72,7 @@ namespace txtdemo
         }
 
         /*
-         * 按值排序
+         * 按值排序 
          */
         public Dictionary<string, int> sort(Dictionary<string, int> nary)
         {
@@ -81,6 +85,9 @@ namespace txtdemo
             return bronary;
         }
 
+        /*
+         * 指定词组长度 
+         */
         public Dictionary<string,int> msort(ArrayList al,int size)
         {
             Dictionary<string, int> nary = new Dictionary<string, int>();

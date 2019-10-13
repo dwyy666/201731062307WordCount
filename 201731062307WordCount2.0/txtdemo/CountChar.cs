@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -15,8 +16,10 @@ namespace txtdemo
         public int characSum(string text)
         {
             int sum = 0;
-            sum += Regex.Matches(text, @"\w").Count;
-            sum+=Regex.Matches(text, @"\s").Count;
+            
+            sum = text.Length;
+            //sum += Regex.Matches(text, @"\w").Count;
+            //sum += Regex.Matches(text, @"\s").Count;
             return sum;
         }
     }

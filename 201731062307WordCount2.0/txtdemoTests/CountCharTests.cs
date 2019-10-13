@@ -30,8 +30,8 @@ namespace txtdemo.Tests
             CountChar countChar = new CountChar();
             countChar.characSum(text);
             countChar.characSum(test);
-            Assert.AreEqual(countChar.characSum(text), 423);
-            Assert.AreEqual(countChar.characSum(test), 279);
+            Assert.AreEqual(countChar.characSum(text), 432);
+            Assert.AreEqual(countChar.characSum(test), 282);
         }
 
         [TestMethod()]
